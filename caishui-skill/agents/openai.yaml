@@ -1,0 +1,7 @@
+interface:
+  display_name: "财税申报"
+  short_description: "中国大陆企业和个体户财税申报、报表与政策核验助手"
+  default_prompt: "使用 $caishui-skill 为中国大陆纳税人准备财税申报底稿，并核验官方政策和地区口径。"
+
+policy:
+  allow_implicit_invocation: true

@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# 财税真实资料归档目录，避免误传企业敏感数据
+资料归档/
+原始资料/
+真实资料/
+客户资料/
+账单归档/
+bill-archive/
+raw-data/
+private-data/
