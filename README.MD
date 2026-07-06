@@ -1,4 +1,4 @@
-# caishui-skill
+# 财税Skill
 
 面向中国大陆企业、个体工商户和财税从业者的财税申报辅助 skill。
 
